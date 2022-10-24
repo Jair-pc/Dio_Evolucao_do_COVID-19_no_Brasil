@@ -5,7 +5,7 @@
 
 #### Geração Tech Unimed-BH - Ciência de Dados    -   DIO - Digital Innovation One Inc. 
 
-# Projeto de analise exploratória de dados para prever a evolução da covid-19 no brasil
+# Projeto de analise exploratória de dados para prever a evolução da covid-19 no Brasil
 
 
 ## Professor: Neylson Crepalde
